@@ -9,3 +9,4 @@ else:
         print('drink water bottle')
     else:
         print('drink water')
+        print('then drink water')
