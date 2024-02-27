@@ -10,3 +10,6 @@ else:
     else:
         print('drink water')
         print('then drink water')
+        
+import cv2
+cv2.imshow('')
